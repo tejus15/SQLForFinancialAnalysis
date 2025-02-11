@@ -48,7 +48,7 @@ Design SQL queries to generate accurate and timely financial reports including P
 **Calculating Balance Sheet Related Values**  
 <img src="./image/bs_all.png" alt="" width = "800"/>
 
-**If we compare SQL Query to Balance Sheet Excel result**
+**If we compare SQL Query to Balance Sheet Excel result**<br/>
 <img src="./image/excel_bs_all.png" alt="" width = "450"/>
 
 ### C. Calculating Ratios
@@ -61,5 +61,5 @@ Design SQL queries to generate accurate and timely financial reports including P
 **Calculating Cash Flow Related Values**  
 <img src="./image/CF.png" alt="" width = "500"/>  
    
-**If we compare SQL Query to Cash Flow Excel result**
+**If we compare SQL Query to Cash Flow Excel result**<br/>
 <img src="./image/excel_CF.png" alt="" width = "450"/>
